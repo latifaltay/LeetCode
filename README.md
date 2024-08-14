@@ -1,19 +1,19 @@
 # LeetCode Solutions
 
-Bu depo, LeetCode platformunda çözdüğüm çeşitli algoritma ve veri yapısı problemlerinin çözümlerini içermektedir. Her bir dosya, belirli bir LeetCode problemine ait çözümü temsil eder.
+This repository contains solutions to various algorithm and data structure problems solved on the LeetCode platform. Each file represents the solution to a specific LeetCode problem.
 
-## İçindekiler
+## Contents
 
-- **[Problem_1](./Problem_1)**: [Problem Başlığı](https://leetcode.com/problems/problem-title/)  
-  Açıklama ve çözüm notları.
+- **[Problem_1](./Problem_1)**: [Problem Title](https://leetcode.com/problems/problem-title/)  
+  Description and solution notes.
   
-- **[Problem_2](./Problem_2)**: [Problem Başlığı](https://leetcode.com/problems/problem-title/)  
-  Açıklama ve çözüm notları.
+- **[Problem_2](./Problem_2)**: [Problem Title](https://leetcode.com/problems/problem-title/)  
+  Description and solution notes.
 
-## Kullanım
+## Usage
 
-Bu depo, LeetCode problemlerine ait çeşitli çözümleri barındırmaktadır. Çözümler, farklı programlama dilleri kullanılarak yazılmıştır. Her bir problemin çözümü, ilgili klasörde yer almaktadır.
+This repository houses various solutions to LeetCode problems. The solutions are written in different programming languages. Each problem's solution can be found in its respective folder.
 
-1. Bu repoyu bilgisayarınıza klonlayın:
+1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/kullanici_adiniz/leetcode-solutions.git
+   git clone https://github.com/your_username/leetcode-solutions.git
