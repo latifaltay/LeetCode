@@ -1,5 +1,7 @@
 # LeetCode Solutions
 
+![LeetCode Logo](https://assets.leetcode.com/static_assets/public/images/leetcode-logo.png)
+
 This repository contains solutions to various algorithm and data structure problems solved on the LeetCode platform. Each file represents the solution to a specific LeetCode problem.
 
 ## Contents
