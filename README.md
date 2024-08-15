@@ -19,3 +19,11 @@ This repository houses various solutions to LeetCode problems. The solutions are
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/your_username/leetcode-solutions.git
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/latifaltay/LeetCode/tree/master/0742-to-lower-case) |
+<!---LeetCode Topics End-->
