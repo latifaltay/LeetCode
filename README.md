@@ -25,11 +25,13 @@ This repository houses various solutions to LeetCode problems. The solutions are
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/latifaltay/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/latifaltay/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/latifaltay/LeetCode/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/latifaltay/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/latifaltay/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -39,4 +41,8 @@ This repository houses various solutions to LeetCode problems. The solutions are
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/latifaltay/LeetCode/tree/master/0217-contains-duplicate) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/latifaltay/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
